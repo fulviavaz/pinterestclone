@@ -1,6 +1,6 @@
 
 **# UI Clone - Pinterest (Homepage)**
-![Clone Pinterest](https://www.imagemhost.com.br/image/2LpDzr)
+![Clone Pinterest]
 
 **Technologies**
 
